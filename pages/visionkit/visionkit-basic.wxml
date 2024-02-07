@@ -1,0 +1,5 @@
+<view class="container page" data-weui-theme="{{theme}}">
+<view><canvas type="webgl" id="webgl" style="width: {{width}}px; height: {{height}}px" bindtouchend="onTouchEnd">
+    </canvas></view>
+<view>·· Click anywhere on the screen to get robots! ··</view>
+</view>
